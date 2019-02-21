@@ -1,0 +1,1 @@
+Preprocessed MEG data for 29 participants. Participants 1-16 took part in the One-back experiment (Exp 2 in the paper). Participants 16 - 29 took part in the Oddbal detection experiment (Exp 1 in the paper). 
